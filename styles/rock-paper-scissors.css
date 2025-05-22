@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: Arial;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.pic{
+    
+    height: 50px;
+    
+    
+    
+}
+.styleBtn{
+    background-color: transparent;
+    border: 3px solid white;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+    
+    
+}
+.stylePara{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.reset{
+    padding-top:7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.displayScore{
+    margin-top: 50px;
+}
